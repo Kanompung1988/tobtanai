@@ -1,0 +1,41 @@
+entries:
+  - name: "Facial Treatments (ดูแลผิวหน้า)"
+    description: "บริการดูแลผิวหน้าครบวงจร ทำความสะอาดเชิงลึก บำรุงผิว และรักษาสิว"
+    duration: "60–90 นาที"
+    suitable_for: "ทุกสภาพผิว"
+
+  - name: "Botox (โบท็อกซ์)"
+    description: "ฉีด Botox ลดริ้วรอย ลดกล้ามเนื้อขากรรไกร ผลิตภัณฑ์ FDA-approved"
+    duration: "15–30 นาที"
+    suitable_for: "ผู้ที่มีริ้วรอยจากการแสดงออก"
+
+  - name: "Dermal Fillers (ฟิลเลอร์)"
+    description: "ฟิลเลอร์ปรับรูปจมูก ริมฝีปาก คาง แก้ม วัสดุ Hyaluronic Acid"
+    duration: "30–60 นาที"
+    suitable_for: "ผู้ต้องการปรับโครงสร้างใบหน้า"
+
+  - name: "Breast Augmentation (เสริมหน้าอก)"
+    description: "ผ่าตัดเสริมหน้าอกซิลิโคน Medical Grade โดยศัลยแพทย์เชี่ยวชาญ"
+    duration: "1.5–2.5 ชั่วโมง"
+    suitable_for: "ผู้หญิงอายุ 18 ปีขึ้นไป สุขภาพแข็งแรง"
+
+  - name: "Liposuction (ดูดไขมัน)"
+    description: "ดูดไขมัน VASER Lipo ปรับรูปร่าง ท้อง ต้นแขน ต้นขา สะโพก"
+    duration: "1–3 ชั่วโมง"
+    suitable_for: "ผู้มีไขมันสะสมเฉพาะจุด BMI ไม่เกิน 30"
+
+  - name: "Body Contouring (เสริมรูปร่าง)"
+    description: >
+      การปรับรูปร่างด้วยเทคโนโลยี HIFU Body, Coolsculpting หรือ
+      RF Skin Tightening เพื่อกระชับสัดส่วนโดยไม่ต้องผ่าตัด
+      เหมาะสำหรับผู้ที่ต้องการกระชับหน้าท้อง ต้นแขน และต้นขา
+    duration: "45–90 นาที ต่อบริเวณ"
+    suitable_for: "ผู้ที่ต้องการกระชับรูปร่างโดยไม่ต้องผ่าตัด"
+
+  - name: "Skin Rejuvenation (ฟื้นฟูผิว)"
+    description: >
+      บริการฟื้นฟูผิวด้วยเทคโนโลยีขั้นสูง เช่น PRP (Platelet-Rich Plasma),
+      Mesotherapy, และ Microneedling เพื่อเพิ่มความกระจ่างใส ลดริ้วรอย
+      และกระตุ้นการสร้างคอลลาเจน
+    duration: "60–90 นาที"
+    suitable_for: "ผิวหมองคล้ำ แก่ก่อนวัย รอยแผลเป็น หรือต้องการฟื้นฟูผิวทั่วไป"

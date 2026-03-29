@@ -1,0 +1,50 @@
+entries:
+  - service: "Facial Treatments"
+    variants:
+      - name: "Basic Facial"
+        price_thb: 800
+      - name: "Hydra Facial"
+        price_thb: 1800
+
+  - service: "Botox"
+    variants:
+      - name: "ฉีด Botox หน้าผาก"
+        price_thb: 2500
+      - name: "ฉีด Botox ขากรรไกร"
+        price_thb: 3500
+      - name: "ฉีด Botox 4 จุดแพ็กเกจ"
+        price_thb: 8000
+
+  - service: "Dermal Fillers"
+    variants:
+      - name: "ฟิลเลอร์ดั้งจมูก"
+        price_thb: 8500
+      - name: "ฟิลเลอร์ริมฝีปาก"
+        price_thb: 7500
+      - name: "ฟิลเลอร์คาง"
+        price_thb: 9000
+
+  - service: "Breast Augmentation"
+    variants:
+      - name: "เสริมหน้าอก ซิลิโคน Round (ราคาเริ่มต้น)"
+        price_thb: 95000
+        note: "ยังไม่รวมค่าห้องพัก ค่ายา และค่าดมยาสลบ"
+      - name: "เสริมหน้าอก ซิลิโคน Teardrop (ราคาเริ่มต้น)"
+        price_thb: 110000
+        note: "ยังไม่รวมค่าห้องพัก ค่ายา และค่าดมยาสลบ"
+      - name: "แพ็กเกจเสริมหน้าอกครบวงจร (All-in)"
+        price_thb: 135000
+        note: "รวมค่าห้องพัก 1 คืน ค่ายา ค่าตรวจก่อนผ่าตัด"
+
+  - service: "Liposuction"
+    variants:
+      - name: "ดูดไขมันท้อง (VASER Lipo)"
+        price_thb: 45000
+        note: "ราคาเริ่มต้น ขึ้นกับปริมาณไขมัน"
+      - name: "ดูดไขมันต้นขา"
+        price_thb: 40000
+      - name: "ดูดไขมันต้นแขน"
+        price_thb: 35000
+      - name: "ดูดไขมันแพ็กเกจ 2 จุด"
+        price_thb: 70000
+        note: "เลือก 2 บริเวณจากรายการ"

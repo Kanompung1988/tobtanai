@@ -1,0 +1,22 @@
+entries:
+  - title: "Full Body Transformation Package"
+    detail: >
+      แพ็กเกจครบวงจร: ดูดไขมัน 2 จุด + Body Contouring 3 ครั้ง + Skin Rejuvenation 2 ครั้ง
+      ออกแบบโดยผู้เชี่ยวชาญเพื่อผลลัพธ์สูงสุด
+    price_thb: 120000
+    valid_until: "2026-06-30"
+
+  - title: "Skin Rejuvenation + Body Contouring Combo"
+    detail: "ทำ PRP ทั้งหน้า + RF Tightening ทั้งตัว ในราคาเดียว ประหยัด 20%"
+    price_thb: 9500
+    valid_until: "2026-05-31"
+
+  - title: "โปรแนะนำเพื่อน"
+    detail: "แนะนำเพื่อนใหม่รับบริการ รับส่วนลด 500 บาทสำหรับการรับบริการครั้งถัดไป"
+    price_thb: 0
+    valid_until: "ไม่มีวันหมดอายุ"
+
+  - title: "แพ็กเกจ Body Contouring 5 ครั้ง"
+    detail: "ซื้อ 5 ครั้งจ่ายในราคา 4 ครั้ง เลือกได้ทั้ง HIFU, Coolsculpting หรือ RF"
+    price_thb: 20000
+    valid_until: "2026-07-31"

@@ -1,0 +1,15 @@
+entries:
+  - title: "แพ็กเกจ Botox 3 จุด ราคาพิเศษ"
+    detail: "ฉีด Botox หน้าผาก + รอบตา + ขากรรไกร ในราคาเดียว"
+    price_thb: 7000
+    valid_until: "2026-06-30"
+
+  - title: "Hydra Facial + Q-Switch Combo"
+    detail: "ทำ Hydra Facial และ Q-Switch Laser ทั้งหน้าในวันเดียว ประหยัดกว่า 20%"
+    price_thb: 4200
+    valid_until: "2026-05-31"
+
+  - title: "สมัครสมาชิกคลินิก รับส่วนลด 10%"
+    detail: "สมัครสมาชิกรายปี รับส่วนลด 10% ทุกบริการตลอดปี ไม่รวมแพ็กเกจพิเศษอื่น"
+    price_thb: 500
+    valid_until: "ไม่มีวันหมดอายุ"

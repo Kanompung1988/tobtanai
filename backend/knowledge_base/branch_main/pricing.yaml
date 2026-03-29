@@ -1,0 +1,46 @@
+entries:
+  - service: "Facial Treatments"
+    variants:
+      - name: "Basic Facial (ทำความสะอาดผิวหน้าพื้นฐาน)"
+        price_thb: 800
+      - name: "Hydra Facial (ไฮดร้าเฟเชียล)"
+        price_thb: 1800
+        note: "รวมการกระตุ้นคอลลาเจน"
+      - name: "Acne Treatment Facial (รักษาสิวเฉพาะจุด)"
+        price_thb: 1200
+
+  - service: "Botox"
+    variants:
+      - name: "ฉีด Botox หน้าผาก"
+        price_thb: 2500
+        note: "เริ่มต้น ปรับตามปริมาณที่ใช้จริง"
+      - name: "ฉีด Botox รอบดวงตา (หางตา)"
+        price_thb: 2000
+      - name: "ฉีด Botox ขากรรไกร (Jawline Slim)"
+        price_thb: 3500
+      - name: "ฉีด Botox รับประกัน 4 จุด"
+        price_thb: 8000
+        note: "แพ็กเกจประหยัด หน้าผาก + หัวคิ้ว + หางตา + คาง"
+
+  - service: "Dermal Fillers"
+    variants:
+      - name: "ฟิลเลอร์ดั้งจมูก"
+        price_thb: 8500
+        note: "HA 1 cc เริ่มต้น"
+      - name: "ฟิลเลอร์ริมฝีปาก"
+        price_thb: 7500
+      - name: "ฟิลเลอร์คาง"
+        price_thb: 9000
+      - name: "ฟิลเลอร์แก้ม"
+        price_thb: 12000
+        note: "2 cc ต่อข้าง"
+
+  - service: "Laser Treatments"
+    variants:
+      - name: "Q-Switch (กระ/รอยดำ) ทั้งหน้า"
+        price_thb: 1500
+      - name: "Pico Laser (ฝ้า) ทั้งหน้า"
+        price_thb: 3500
+      - name: "Fractional CO2 (รอยแผลเป็น/สิว)"
+        price_thb: 5000
+        note: "ต่อครั้ง"

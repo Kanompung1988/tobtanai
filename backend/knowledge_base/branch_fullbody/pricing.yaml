@@ -1,0 +1,74 @@
+entries:
+  - service: "Facial Treatments"
+    variants:
+      - name: "Basic Facial"
+        price_thb: 800
+      - name: "Hydra Facial"
+        price_thb: 1800
+      - name: "Acne Treatment Facial"
+        price_thb: 1200
+
+  - service: "Botox"
+    variants:
+      - name: "ฉีด Botox หน้าผาก"
+        price_thb: 2500
+      - name: "ฉีด Botox ขากรรไกร"
+        price_thb: 3500
+      - name: "ฉีด Botox 4 จุดแพ็กเกจ"
+        price_thb: 8000
+
+  - service: "Dermal Fillers"
+    variants:
+      - name: "ฟิลเลอร์ดั้งจมูก"
+        price_thb: 8500
+      - name: "ฟิลเลอร์ริมฝีปาก"
+        price_thb: 7500
+      - name: "ฟิลเลอร์คาง"
+        price_thb: 9000
+      - name: "ฟิลเลอร์แก้ม"
+        price_thb: 12000
+
+  - service: "Breast Augmentation"
+    variants:
+      - name: "เสริมหน้าอก Round Silicone (เริ่มต้น)"
+        price_thb: 95000
+      - name: "เสริมหน้าอก Teardrop (เริ่มต้น)"
+        price_thb: 110000
+      - name: "แพ็กเกจ All-in"
+        price_thb: 135000
+        note: "รวมค่าห้องพัก 1 คืน ค่ายา ค่าตรวจก่อนผ่าตัด"
+
+  - service: "Liposuction"
+    variants:
+      - name: "ดูดไขมันท้อง (VASER)"
+        price_thb: 45000
+      - name: "ดูดไขมันต้นขา"
+        price_thb: 40000
+      - name: "ดูดไขมันต้นแขน"
+        price_thb: 35000
+      - name: "แพ็กเกจ 2 จุด"
+        price_thb: 70000
+
+  - service: "Body Contouring"
+    variants:
+      - name: "HIFU Body (กระชับสัดส่วน) ทั้งหน้าท้อง"
+        price_thb: 15000
+      - name: "Coolsculpting (แช่แข็งไขมัน) 1 หัวรักษา"
+        price_thb: 8000
+      - name: "RF Skin Tightening ทั้งตัว"
+        price_thb: 5000
+      - name: "แพ็กเกจ Body Contouring 5 ครั้ง"
+        price_thb: 20000
+        note: "ประหยัดกว่าซื้อทีละครั้ง"
+
+  - service: "Skin Rejuvenation"
+    variants:
+      - name: "PRP (Platelet-Rich Plasma) ทั้งหน้า"
+        price_thb: 6500
+      - name: "Mesotherapy ทั้งหน้า"
+        price_thb: 4000
+      - name: "Microneedling (Dermaroller)"
+        price_thb: 3500
+      - name: "แพ็กเกจ Skin Rejuvenation 3 ครั้ง"
+        price_thb: 12000
+        note: "PRP หรือ Mesotherapy สลับกัน"

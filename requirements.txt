@@ -1,0 +1,18 @@
+# Frontend
+streamlit>=1.32.0
+
+# Backend core
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+
+# LLM client (Typhoon via OpenAI-compatible API)
+openai>=1.30.0
+
+# RAG
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+torch>=2.2.0
+
+# Document loading
+pyyaml>=6.0.1
