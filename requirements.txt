@@ -13,5 +13,8 @@ openai>=1.30.0
 chromadb>=0.5.0
 fastembed>=0.3.0
 
+# Fix protobuf/opentelemetry compatibility (chromadb pulls old otlp that breaks with protobuf>=4)
+opentelemetry-exporter-otlp-proto-grpc>=1.23.0
+
 # Document loading
 pyyaml>=6.0.1
